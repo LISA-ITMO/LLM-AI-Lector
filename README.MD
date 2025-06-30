@@ -41,20 +41,14 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/yourbot.git
-    cd yourbot
+    git clone https://github.com/LISA-ITMO/LLM-AI-Lector.git
+    cd LLM-AI-Lector
     ```
-
-2. Установите зависимости:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Добавьте ваши токены:
+2. Добавьте ваши токены:
     - Вставьте Telegram-токен в файл `config.py`.
     - Укажите токен вашей LLM (например, OpenAI API).
 
-4. Запустите бота:
+3. Запустите бота:
     ```bash
     python main.py
     ```
@@ -84,6 +78,12 @@
 - Расширение функционала для преподавателей
 - Хранение и анализ статистики прохождения тестов
 - Интерфейс загрузки и отображения учебных материалов
+
+---
+
+## Примеры использования
+
+Найти пример работы бота вы можете в google disk: https://drive.google.com/file/d/1yzJ0s9vADhw-C6IQjAQ1qgtpZOkpK6_y/view?usp=sharing
 
 ---
 
